@@ -174,4 +174,4 @@ Correct prediction of straight only with very close to 1 prediction.
 #### 1. Discuss the visual output of your trained network's feature maps. What characteristics did the neural network use to make classifications?
 
 ## LICENSE
-[MIT LICENSE](./LICENSE)
+Covered under [MIT LICENSE](./LICENSE)
